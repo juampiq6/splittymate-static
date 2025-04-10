@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "splittymate.jpq.com.ar",
+            "package_name": "ar.com.jpq.splittymate",
             "sha256_cert_fingerprints": [
                 "0F:84:FC:C7:61:A2:63:D9:54:76:AB:F0:D8:42:7B:55:8D:78:20:04:69:3D:31:74:4C:F5:21:E3:62:FF:17:46"
             ]
