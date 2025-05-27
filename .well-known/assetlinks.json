@@ -7,7 +7,8 @@
             "namespace": "android_app",
             "package_name": "ar.com.jpq.splittymate",
             "sha256_cert_fingerprints": [
-                "05:6E:AA:5F:6D:65:6E:6B:F4:CE:D7:E1:0C:08:3D:EF:8B:EB:0C:CE:B7:F8:C5:3D:77:4F:55:2C:5E:56:BA:29"
+                "05:6E:AA:5F:6D:65:6E:6B:F4:CE:D7:E1:0C:08:3D:EF:8B:EB:0C:CE:B7:F8:C5:3D:77:4F:55:2C:5E:56:BA:29",
+                "D0:8B:6B:5C:B7:39:5B:3F:6D:AA:DF:63:26:32:BA:11:F4:B4:44:AB:CD:85:27:6F:87:F4:CC:9D:6F:8C:44:DD"
             ]
         }
     }
